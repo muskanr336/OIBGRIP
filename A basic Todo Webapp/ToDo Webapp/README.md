@@ -1,0 +1,1 @@
+Develop a basic task application that will allow users to add daily tasks using CSS,HTML,JS. The activity web application should allow the user to add new items to the list, and the items added to the list should be displayed and can be marked completed by the user when the task is completed.
