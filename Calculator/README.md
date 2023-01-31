@@ -1,0 +1,1 @@
+Created a simple calculator using HTML,CSS and JS.This Calculators has an interactive interface to perform basic functions such as addition, subtraction, division, and multiplication. This requires a screen that displays user input and provides results. The CSS grid system is used to lay out the calculator buttons.
